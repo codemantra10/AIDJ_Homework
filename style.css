@@ -37,6 +37,12 @@ border-radius: 100px;
     font-family: cursive;
     background-color: lawngreen;
     }
+    #stopmusic{
+        height: 50px;
+        width: 200px;
+        font-family: cursive;
+        background-color: rgb(252, 0, 0);
+        }
     canvas{
     border: 5px ridge white;
     border-radius: 100px;
